@@ -21,9 +21,7 @@ html ._4jy0:focus{box-shadow:0 0 1px 2px rgba(88, 144, 255, .75), 0 1px 1px rgba
 ._4jy0{transition:200ms cubic-bezier(.08,.52,.52,1) background-color, 200ms cubic-bezier(.08,.52,.52,1) box-shadow, 200ms cubic-bezier(.08,.52,.52,1) transform;}
 ._4jy0:active{transition:none;}
 ._4jy1{color:#fff;}
-._4jy1{background-color:#4267b2;border-color:#4267b2;}
-._4jy1:hover{background-color:#365899;border-color:#365899;}
-._4jy1:active{background-color:#29487d;border-color:#29487d;}
+._4jy1{background-color:#f4cc74;border-color:#f4cc74;}
 ._4jy6{line-height:42px;padding:0 24px;}
 ._6luv{align-items:center;background-color:#fff;border:none;border-radius:8px;box-shadow:0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);box-sizing:border-box;margin:40px 0 0;padding:20px 0 28px;width:396px;}
 ._8icy ._6luv{padding-bottom:24px;padding-top:10px;}
@@ -36,7 +34,7 @@ html ._4jy0:focus{box-shadow:0 0 1px 2px rgba(88, 144, 255, .75), 0 1px 1px rgba
 ._8icy ._6lux ._6luy{border-radius:6px;}
 ._6ltg{padding-top:6px;}
 ._6lth{font-size:14px;width:252px;}
-._8icy ._6lth{background-color:#1877f2;border:none;border-radius:6px;font-size:20px;line-height:48px;padding:0 16px;width:332px;}
+._8icy ._6lth{background-color:#f4cc74;border:none;border-radius:6px;font-size:20px;line-height:48px;padding:0 16px;width:332px;}
 ._8icy._9ah- ._6lth:hover{background-color:#166fe5;}
 ._8esj{background:#edf0f5;}
 ._95k9{background:#f0f2f5;min-width:500px;}
